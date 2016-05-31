@@ -1,0 +1,14 @@
+layout_spectrum: 0.8002351927570999
+typography_spectrum: 0.24172140005975962
+color:
+  brandStrength: 0.3321839338168502
+  lightness: 0.3411051332950592
+  saturation: 0.03372093476355076
+  rhythmicContrast: 0.8250132699031383
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: FabsNebula
